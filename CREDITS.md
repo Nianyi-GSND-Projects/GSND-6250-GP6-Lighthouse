@@ -1,0 +1,3 @@
+- `kloofendal_48d_partly_cloudy_puresky_2k.hdr`: Skybox texture, migrated from past project.
+- `wnormal.jpg`: Detailed water normal displacement, acquired from `https://opensage.github.io/blog/water-rendering`.
+- `wflowmap.jpg`: Water flow map, acquired from `https://zhuanlan.zhihu.com/p/631507415?share_code=TSYls6iz7mTf`.
