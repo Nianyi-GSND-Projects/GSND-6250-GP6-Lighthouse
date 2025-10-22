@@ -27,6 +27,11 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: Lighthouse_room_floor
+    second: {fileID: 2100000, guid: ad28edda985b18a4286960878fd6de01, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: Lighthouse_wallpaper
     second: {fileID: 2100000, guid: 8788610d57b2b0340a9e321cc68d098a, type: 2}
   - first:
@@ -34,6 +39,11 @@ ModelImporter:
       assembly: UnityEngine.CoreModule
       name: Main_door_hollow
     second: {fileID: 2100000, guid: 23fd6a69693dcba45aa305ee4fef92c7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Staircases
+    second: {fileID: 2100000, guid: 5677162e1a639264fb90b25efacd6631, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule

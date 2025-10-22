@@ -1,3 +1,6 @@
 - `kloofendal_48d_partly_cloudy_puresky_2k.hdr`: Skybox texture, migrated from past project.
 - `wnormal.jpg`: Detailed water normal displacement, acquired from `https://opensage.github.io/blog/water-rendering`.
 - `wflowmap.jpg`: Water flow map, acquired from `https://zhuanlan.zhihu.com/p/631507415?share_code=TSYls6iz7mTf`.
+- `surface-of-white-concrete-wall-background-abstract-cement-texture-in-the-structure-for-design-photo.jpg`: Concrete texture, acquired from `https://www.vecteezy.com/photo/21958886-surface-of-white-concrete-wall-background-abstract-cement-texture-in-the-structure-for-design`.
+- `wooden_planks_new_texture_03_by_simoonmurray_d2nevt1-fullview.jpg`: Wood texture, reused from previous projects.
+- `fe8d1427d985498225a11c3339d2fe33_t.jpeg`: Stone slab texture, acquired from `https://en.ac-illust.com/clip-art/23282395/stone-slab-texture-1108`.
