@@ -5,3 +5,4 @@
 - `wooden_planks_new_texture_03_by_simoonmurray_d2nevt1-fullview.jpg`: Wood texture, reused from previous projects.
 - `fe8d1427d985498225a11c3339d2fe33_t.jpeg`: Stone slab texture, acquired from `https://en.ac-illust.com/clip-art/23282395/stone-slab-texture-1108`.
 - `photo-1580687104139-9d51ce55e346.jpeg`: Stone island texture, acquired from `https://unsplash.com/photos/grayscale-photo-of-rock-formation-i1O_Hr6cbWc`.
+- Grunge textures: acquired and sliced from `https://unblast.com/download/35499/`.
