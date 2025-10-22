@@ -16,7 +16,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &8978664357570486691
 Transform:
@@ -126,11 +126,6 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: -8767423617846716934, guid: 95abaff234c9d8d44885c405f28ca880,
-        type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: 08427613e5e1ef04799195c4ae2290d8, type: 2}
     - target: {fileID: -8679921383154817045, guid: 95abaff234c9d8d44885c405f28ca880,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -181,10 +176,25 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7434671111142797493, guid: 95abaff234c9d8d44885c405f28ca880,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: -7272119778951187001, guid: 95abaff234c9d8d44885c405f28ca880,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 95abaff234c9d8d44885c405f28ca880,
         type: 3}
       propertyPath: m_Name
       value: WallLamp
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 95abaff234c9d8d44885c405f28ca880,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
