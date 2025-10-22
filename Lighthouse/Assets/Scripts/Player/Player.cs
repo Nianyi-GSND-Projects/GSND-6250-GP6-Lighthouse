@@ -11,7 +11,7 @@ namespace Game
 	public class Player : MonoBehaviour
 	{
 		#region Unity life cycle
-		private void Awake()
+		private void Start()
 		{
 			foreach(var surface in NavMeshSurface.activeSurfaces)
 			{
