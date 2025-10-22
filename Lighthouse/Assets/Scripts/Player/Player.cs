@@ -2,6 +2,7 @@ using UnityEngine;
 using UnityEngine.InputSystem;
 using UnityEngine.AI;
 using UnityEngine.UI;
+using Unity.AI.Navigation;
 
 namespace Game
 {
@@ -10,6 +11,15 @@ namespace Game
 	public class Player : MonoBehaviour
 	{
 		#region Unity life cycle
+		private void Awake()
+		{
+			foreach(var surface in NavMeshSurface.activeSurfaces)
+			{
+				surface.RemoveData();
+				surface.BuildNavMesh();
+			}
+		}
+
 		void OnEnable()
 		{
 			Cursor.lockState = CursorLockMode.Locked;
