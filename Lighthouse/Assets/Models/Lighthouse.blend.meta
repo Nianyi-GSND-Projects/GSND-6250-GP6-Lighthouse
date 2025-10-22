@@ -3,7 +3,42 @@ guid: a467418814f92554faf1dcbc6389d954
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lighthouse_base_floor
+    second: {fileID: 2100000, guid: 23fd6a69693dcba45aa305ee4fef92c7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lighthouse_base_inside
+    second: {fileID: 2100000, guid: 23fd6a69693dcba45aa305ee4fef92c7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lighthouse_base_outside
+    second: {fileID: 2100000, guid: 8788610d57b2b0340a9e321cc68d098a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lighthouse_base_outside-stripe
+    second: {fileID: 2100000, guid: 457a822564ed82c40b6a45ced300c01f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lighthouse_wallpaper
+    second: {fileID: 2100000, guid: 8788610d57b2b0340a9e321cc68d098a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Main_door_hollow
+    second: {fileID: 2100000, guid: 23fd6a69693dcba45aa305ee4fef92c7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Window_hollow
+    second: {fileID: 2100000, guid: 23fd6a69693dcba45aa305ee4fef92c7, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
